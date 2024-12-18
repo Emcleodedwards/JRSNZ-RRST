@@ -3,7 +3,7 @@
 
 Aim of project was to develop an analytical protocol to capture measures of interoceptive sensitivity more robustly in the breathing (inspiratory resistance) domain, by better accounting for physiological variability. This extends on previous interoceptive breathing protocols by capturing and accounting for inherent intra- and inter-participant physiological variability, and provides the ability to standardise this measure for cross-modal comparisons.
 
-Project includes MatLab code for processing physiological breathing data collected using the [RRST](https://www.sciencedirect.com/science/article/pii/S0301051122000679) (Nikolova et al., 2022), and the statistical analysis completed in R for the working paper titled 'Incorporating Physiological Variance within Estimations of Interoceptive Sensitivity'. 
+Project includes MatLab code for processing physiological breathing data collected using the [RRST](https://www.sciencedirect.com/science/article/pii/S0301051122000679) (Nikolova et al., 2022), and the statistical analysis completed in R for the paper titled 'Incorporating Physiological Variance within Estimations of Interoceptive Sensitivity'.
 
 ## Table of Contents
 
